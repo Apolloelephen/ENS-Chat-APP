@@ -1,5 +1,5 @@
-# Deployment Contract Address
-0x157B6Bb480900DCD758ac2b05CFAb0167549C796
+# Deployed Contract Address
+0x7800cb63c0d32b0f7b4b9fe89e98907c9db23c37
 
 Currently, two official plugins are available:
 
